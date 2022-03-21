@@ -16,7 +16,7 @@ Saya Raihan Fitrah V Ramadhan 2007874 mengerjakan Latihan 5 dalam mata kuliah De
 
 ## C. Validasi data yang tidak lengkap
 
-![alt text](https://github.com/vier15/LATIHAN5DPBO2022/blob/main/Screenshot/valdiasi.png)
+![alt text](https://github.com/vier15/LATIHAN5DPBO2022/blob/main/Screenshot/validasi.png)
 
 ## D. Penghapusan data di text field dibuat dengan mengisi txtFieldNim, txtFieldNama, dan txtFieldNilai dengan nilai null di prosedur btnCancel, btnAdd, dan btnDelete
 
